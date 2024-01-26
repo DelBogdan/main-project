@@ -17,5 +17,6 @@ public class Main {
 
         System.out.println("Для наполнения бассейна потребовалось " + minuteCounter + " минут");
         System.out.println("Для проверки Git");
+        System.out.println("Для проверки Git");
     }
 }
