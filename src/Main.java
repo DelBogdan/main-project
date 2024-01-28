@@ -21,6 +21,7 @@ public class Main {
         }
         System.out.println("Я тебя вижу!");
         System.out.println("Проверка новой ветки в Git");
+        System.out.println("Проверка новой ветки в Git");
         
 
     }
